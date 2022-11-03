@@ -27,24 +27,6 @@ function CalculateScore (){
           }
 
 
-
-    // const handleChange = (event) =>{
-    //     const fieldName = event.target.name;
-    //     const fieldValue = event.target.value;
-
-     
-
-
-    // const handleChange = (event) =>{
-    //     const fieldName = event.target.name;
-    //     const fieldValue = event.target.value;
-
-
-    // }
-
-
-
-
     return (
         <div className="App">
             <form onSubmit={calcAveScore}>
